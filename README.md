@@ -1,2 +1,2 @@
-# capsule-sample
+# capsule-sample-news
 For Soongsil Bixby Hackathon
